@@ -1,0 +1,15 @@
+cd eclipse local directory
+git clone online reposetory(https://github.com/AnudeepBygari/GitHubTest.git)
+git status
+git commit -m "newly added index.html.txt"
+git pull
+git push
+
+
+
+
+git config --global user.email "reddianudeep.mpl@gmail.com"
+git config --global user.name "AnudeepBygari"
+
+
+https://www.youtube.com/watch?v=0fKg7e37bQE
